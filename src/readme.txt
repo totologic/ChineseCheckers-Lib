@@ -1,5 +1,5 @@
-Create a project with your favrote editor (Flash Builder, Flashdevelop...)
-Define game.as as your main.
+Create a project with your favorite editor (Flash Builder, Flashdevelop...)
+Set game.as as your main.
 Link the chineseCheckers lib folder to your project.
 Link the ui.swc file to your project.
 Then run.
