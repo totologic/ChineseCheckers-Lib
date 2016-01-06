@@ -1,2 +1,2 @@
 # ChineseCheckers-Lib
-Actionscript3 gameplay and AI
+Actionscript3 gameplay and AI for chinese checkers game.
